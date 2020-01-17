@@ -1,0 +1,15 @@
+.mint-searchbar {
+  background-color: white;
+}
+.mint-searchbar-inner {
+  height: 20px;
+  font-size: 12px;
+  text-align: center;
+  border: 1px solid lightgray;
+  border-radius: 15px;
+  input {
+    text-align: center;
+    height: 20px;
+    border-radius: 15px;
+  }
+}
